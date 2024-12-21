@@ -1,0 +1,90 @@
+        /* Gooey animasyon konteyneri */
+        .gooey {
+            position: absolute;
+            display: none;
+            top: 50%;
+            left: 50%;
+            width: 142px;
+            height: 40px;
+            margin: -20px 0 0 -71px;
+            background: white;
+            filter: contrast(20);
+            border-radius: 20px;
+            overflow: hidden;
+            justify-content: space-between;
+            align-items: center;
+        }
+        #result {
+            font-family: 'Arial', 'Times New Roman', sans-serif !important;
+            max-width: 600px;
+            min-height: 600px;
+            border-radius: 6px;
+            word-wrap: break-word;
+            white-space: pre-wrap;
+            overflow-wrap: break-word;
+            padding: 22px;
+            line-height: 22px;
+            box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+            background: #fff;
+        }
+        #result p,h1,h2,strong,a {
+            padding: 0px;
+            margin: 0px;
+        }
+        #result p,a,b {
+            font-size: 11pt;
+        }
+        #result h1,h2 {
+            font-size: 16pt;
+        }
+        /* Ana nokta (gösterilecek yuvarlak) */
+        .dot {
+            position: absolute;
+            width: 16px;
+            height: 16px;
+            top: 12px;
+            left: 15px;
+            filter: blur(4px);
+            background: #000;
+            border-radius: 50%;
+            animation: dot 2.8s infinite;
+        }
+        
+        /* Diğer noktalar */
+        .dots {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 12px;
+            width: 100%;
+            animation: dots 2.8s infinite;
+        }
+        
+        .dots span {
+            width: 16px;
+            height: 16px;
+            filter: blur(4px);
+            background: #000;
+            border-radius: 50%;
+            animation: dots 2.8s infinite;
+        }
+        
+        /* Nokta animasyonu */
+        @keyframes dot {
+            50% {
+                transform: translateX(96px);
+            }
+        }
+        
+        /* Diğer noktaların animasyonu */
+        @keyframes dots {
+            50% {
+                transform: translateX(-31px);
+            }
+        }
+        section {
+            padding: 140px 0 90px 0;
+        }
+        html {
+            scroll-behavior: smooth;
+            transition: all ease 1s;
+        }
