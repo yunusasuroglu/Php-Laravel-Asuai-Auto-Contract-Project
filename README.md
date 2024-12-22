@@ -1,11 +1,7 @@
-<p align="center"><a href="https://github.com/yunusasuroglu/" target="_blank"><img src="public/assets/images/logo-dark.png" width="400" alt="Laravel Logo"></a></p>
-
 ## Asur Ai
 Asruai is a web software project with artificial intelligence infrastructure that makes work easier for many sectors, especially legal ones.
 
 ## Home Page and Auth
-
-Dashboard used by companies with more than one company module. You can access all the links in the dashboard from the side menu. You can use all the modules required for vehicle management, customer management, contract management and car rental companies from this panel.
 
 <p align="center" style="display: flex; justify-content: center; gap: 50px;">
   <a href="https://github.com/yunusasuroglu">
@@ -17,31 +13,32 @@ Dashboard used by companies with more than one company module. You can access al
 </p>
 
 
-## Super Admin Dashboard
+## Contract Automation Page
 
-Super Admin control panel: from this panel you can manage multi-language management, multi-company management, multi-user management, multi-role and permission management and software settings.
-
+On this page, you can create any contract you want by filling out the form and it is easy and useful.
 <p align="center" style="display: flex; justify-content: center; gap: 50px;">
   <a href="https://github.com/yunusasuroglu/">
-    <img width="300" src="public/assets/images/project/2.png" alt="Super Admin Dashboard">
-  </a>
-  <a href="https://github.com/yunusasuroglu">
-    <img width="300" src="public/assets/images/project/6.png" alt="Super Admin Dashboard">
+    <img src="public/assets/images/project/3.png" alt="Super Admin Dashboard">
   </a>
 </p>
 
-## Modules
+## Project Automation Page
 
-- Multi Company Module.
-- Multi User Module.
-- Multi Roles and Permissions Module.
-- Multi Language Module.
-- Bulk Emailler Module.
-- Stripe Payment Module.
-- Calender Module
-- Reservation Module
-- Customer Management Module
-- Invoices Module
+On this page, you can create any project you want by filling out the form and it is easy and useful.
+<p align="center" style="display: flex; justify-content: center; gap: 50px;">
+  <a href="https://github.com/yunusasuroglu/">
+    <img src="public/assets/images/project/4.png" alt="Super Admin Dashboard">
+  </a>
+</p>
+
+## Advisor bot
+
+A bot that you can ask whatever you want has an artificial intelligence infrastructure and is specially adjusted to give the best results.
+<p align="center" style="display: flex; justify-content: center; gap: 50px;">
+  <a href="https://github.com/yunusasuroglu/">
+    <img src="public/assets/images/project/5.png" alt="Super Admin Dashboard">
+  </a>
+</p>
 
 ## Requirements
 
