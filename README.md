@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/yunusasuroglu/" target="_blank"><img src="public/assets/images/logo.png" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://github.com/yunusasuroglu/" target="_blank"><img src="public/assets/images/logo-dark.png" width="400" alt="Laravel Logo"></a></p>
 
 ## Home Page
 
@@ -6,7 +6,7 @@ Dashboard used by companies with more than one company module. You can access al
 
 <p align="center" style="display: flex; justify-content: center; gap: 50px;">
   <a href="https://github.com/yunusasuroglu">
-    <img width="300" src="public/assets/images/project/3.png" alt="Dashboard">
+    <img width="300" src="public/assets/images/1.png" alt="Home Page">
   </a>
   <a href="https://github.com/yunusasuroglu">
     <img width="300" src="public/assets/images/project/4.png" alt="Dashboard Api Settings">
