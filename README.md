@@ -6,10 +6,10 @@ Dashboard used by companies with more than one company module. You can access al
 
 <p align="center" style="display: flex; justify-content: center; gap: 50px;">
   <a href="https://github.com/yunusasuroglu">
-    <img src="public/assets/images/1.png" alt="Home Page">
+    <img width="600" src="public/assets/images/1.png" alt="Home Page">
   </a>
   <a href="https://github.com/yunusasuroglu">
-    <img src="public/assets/images/2.png" alt="Home Page">
+    <img width="600" src="public/assets/images/2.png" alt="Home Page">
   </a>
 </p>
 
