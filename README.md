@@ -8,6 +8,9 @@ Dashboard used by companies with more than one company module. You can access al
   <a href="https://github.com/yunusasuroglu">
     <img src="public/assets/images/1.png" alt="Home Page">
   </a>
+  <a href="https://github.com/yunusasuroglu">
+    <img src="public/assets/images/2.png" alt="Home Page">
+  </a>
 </p>
 
 
