@@ -18,7 +18,7 @@ Asruai is a web software project with artificial intelligence infrastructure tha
 On this page, you can create any contract you want by filling out the form and it is easy and useful.
 <p align="center" style="display: flex; justify-content: center; gap: 50px;">
   <a href="https://github.com/yunusasuroglu/">
-    <img src="public/assets/images/project/3.png" alt="Super Admin Dashboard">
+    <img src="public/assets/images/3.png" alt="Super Admin Dashboard">
   </a>
 </p>
 
@@ -27,7 +27,7 @@ On this page, you can create any contract you want by filling out the form and i
 On this page, you can create any project you want by filling out the form and it is easy and useful.
 <p align="center" style="display: flex; justify-content: center; gap: 50px;">
   <a href="https://github.com/yunusasuroglu/">
-    <img src="public/assets/images/project/4.png" alt="Super Admin Dashboard">
+    <img src="public/assets/images/4.png" alt="Super Admin Dashboard">
   </a>
 </p>
 
@@ -36,7 +36,7 @@ On this page, you can create any project you want by filling out the form and it
 A bot that you can ask whatever you want has an artificial intelligence infrastructure and is specially adjusted to give the best results.
 <p align="center" style="display: flex; justify-content: center; gap: 50px;">
   <a href="https://github.com/yunusasuroglu/">
-    <img src="public/assets/images/project/5.png" alt="Super Admin Dashboard">
+    <img src="public/assets/images/5.png" alt="Super Admin Dashboard">
   </a>
 </p>
 
