@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/yunusasuroglu/" target="_blank"><img src="public/assets/images/systems-logo/logo-dark.png" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://github.com/yunusasuroglu/" target="_blank"><img src="public/assets/images/logo.png" width="400" alt="Laravel Logo"></a></p>
 
 ## Home Page
 
