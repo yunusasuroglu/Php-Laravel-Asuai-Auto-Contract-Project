@@ -6,10 +6,7 @@ Dashboard used by companies with more than one company module. You can access al
 
 <p align="center" style="display: flex; justify-content: center; gap: 50px;">
   <a href="https://github.com/yunusasuroglu">
-    <img width="300" src="public/assets/images/1.png" alt="Home Page">
-  </a>
-  <a href="https://github.com/yunusasuroglu">
-    <img width="300" src="public/assets/images/project/4.png" alt="Dashboard Api Settings">
+    <img src="public/assets/images/1.png" alt="Home Page">
   </a>
 </p>
 
