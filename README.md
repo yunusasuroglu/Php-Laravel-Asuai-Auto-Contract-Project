@@ -1,6 +1,9 @@
 <p align="center"><a href="https://github.com/yunusasuroglu/" target="_blank"><img src="public/assets/images/logo-dark.png" width="400" alt="Laravel Logo"></a></p>
 
-## Home Page
+## Asur Ai
+Asruai is a web software project with artificial intelligence infrastructure that makes work easier for many sectors, especially legal ones.
+
+## Home Page and Auth
 
 Dashboard used by companies with more than one company module. You can access all the links in the dashboard from the side menu. You can use all the modules required for vehicle management, customer management, contract management and car rental companies from this panel.
 
